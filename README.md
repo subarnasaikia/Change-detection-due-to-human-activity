@@ -1,1 +1,1 @@
-# Change-detection-due-to-human-activity
+# Change detection due to human activity
